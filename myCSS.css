@@ -47,23 +47,13 @@ body {
     font-size: 1.5rem;
   }
   
-  .read-more,.info {
+.info {
     font-size: 0.87rem;
-  }
-  
-  .read-more {
-    color: #1792d2;
-    text-decoration: none;
-    font-weight: 700;
-  }
-  
-  .read-more:hover,.read-more:focus {
-    color: #143774;
-  }
-  
-  .info {
     margin: 2em 0;
   }
+  
+
+
   
   .widget-title,
   .post-title {
